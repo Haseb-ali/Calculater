@@ -1,0 +1,18 @@
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\bin\Debug\calculater.exe.config
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\bin\Debug\calculater.exe
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\bin\Debug\calculater.pdb
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.Form1.resources
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.Properties.Resources.resources
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.exe
+C:\Users\HP\Desktop\.net Applications by c#\calculater\calculater\obj\Debug\calculater.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\bin\Debug\calculater.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\bin\Debug\calculater.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\bin\Debug\calculater.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\calculater\calculater\obj\Debug\calculater.csproj.GenerateResource.Cache
